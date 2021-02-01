@@ -1,4 +1,4 @@
-### Hi there 👋 I'm quaddy.
+### Hi there 👋  I'm quaddy.
 
 <!--
 **quaddy/quaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
